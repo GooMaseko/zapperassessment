@@ -1,0 +1,6 @@
+Settings = 00000000setting = 7
+Output : False
+Settings = 00000010setting = 7
+Output : False
+Settings = 11111111setting = 4
+Output : True
